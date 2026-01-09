@@ -1,0 +1,10 @@
+{
+    "name": "com.yourname.toast",
+    "version": "1.0.0",
+    "displayName": "Unity Toast & Snackbar",
+    "description": "Reusable Unity package to show native Android Toast and iOS Snackbar",
+    "unity": "2022.3",
+    "author": {
+        "name": "Your Name"
+    }
+}
