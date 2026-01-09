@@ -55,11 +55,9 @@ https://api.open-meteo.com/v1/forecast
 
 ### Data Usage
 - The API is called at runtime using the captured latitude and longitude.
-- The JSON response is parsed into strongly-typed model classes.
 - The **current temperature** is extracted and displayed using the Toast package.
 
 > **Note:**  
-> The sample JSON provided in the assignment demonstrates daily maximum temperature.  
 > Since the requirement specifies showing the *current temperature*, the implementation uses the appropriate real-time weather data from the API.
 
 ---
